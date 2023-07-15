@@ -14,7 +14,7 @@ which will translated to during rendering.
 ```
     <p>value of x is : 4</p>
 ```
-Note: the object inside the "{}" must be atomic(i.e. string or number), list and object printing willl throw error
+Note: the object inside the "{}" must be atomic(i.e. string or number), list and object printing will throw runtime error
 
 ### If-Else Stament
 
